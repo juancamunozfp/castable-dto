@@ -21,7 +21,7 @@
   "require": {
     "php": ">=8.0",
     "ext-json": "*",
-    "illuminate/contracts": "^8.0",
+    "illuminate/contracts": "^9.0",
     "spatie/data-transfer-object": "^3.0"
   },
   "require-dev": {
